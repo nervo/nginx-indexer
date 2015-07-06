@@ -19,7 +19,7 @@ Copy all the ```.nginx``` folder into your ```/home/web/mirror``` directory.
 Demo: http://indexer.zvoid.net/
 
 ##### BEFORE
-![before](http://indexer.zvoid.net/before.png)
+![before](http://i.imgur.com/m2muVej.png)
 
 ##### AFTER
-![after](http://indexer.zvoid.net/after.png)
+![after](http://i.imgur.com/EzWqV91.png)

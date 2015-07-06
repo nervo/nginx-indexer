@@ -16,4 +16,10 @@ server {
 
 Copy all the ```.nginx``` folder into your ```/home/web/mirror``` directory.
 
-Will setup demo for this shortly!
+Demo: http://indexer.zvoid.net/
+
+##### BEFORE
+![before](http://indexer.zvoid.net/before.png)
+
+##### AFTER
+![after](http://indexer.zvoid.net/after.png)

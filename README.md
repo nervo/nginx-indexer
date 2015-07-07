@@ -6,6 +6,7 @@ Nginx Indexer
 
 ```
 server {
+  listen 80;
   server_name mirror.domain.com;
   root /home/web/mirror;
   add_before_body /.nginx/header.html;

@@ -28,3 +28,12 @@ Demo: http://indexer.zvoid.net/
 
 #### AFTER
 ![after](http://i.imgur.com/aL3IVZ9.png)
+
+#### Additional Icons
+You're welcome to request additional icons for any mime-types in issue tracker.
+
+Request Example Format:
+ * Name: Executable
+ * Extension: exe
+ * Icon: 16x16px (imgur.com icon link)
+ * Site: (official site or wiki page if any)

@@ -14,7 +14,7 @@ server {
 } #indexer
 ```
 
-Copy all the ```.nginx``` folder into your ```/home/web/mirror``` directory.
+Copy ```.nginx``` folder into your ```/home/web/mirror``` directory.
 
 Demo: http://indexer.zvoid.net/
 

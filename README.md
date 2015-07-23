@@ -6,6 +6,8 @@ Nginx Indexer coded with HTML/CSS and using PNG 16x16 icons.
 
 The ```ngx_http_addition_module``` required for this to work.
 
+ToDo: Use organic, devicons and add dark style.
+
 #### Config Nginx
 
 ```

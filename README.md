@@ -13,15 +13,16 @@ ToDo: Use organic, devicons and add dark style.
 ```
 server {
   listen 80;
-  server_name mirror.domain.com;
-  root /home/web/mirror;
+  server_name domain.com;
+  root /home/web;
   add_before_body /.nginx/header.html;
   add_after_body /.nginx/footer.html;
+  autoindex_exact_size off;
   autoindex on;
 } #indexer
 ```
 
-Copy ```.nginx``` folder into your ```/home/web/mirror``` directory.
+Copy ```.nginx``` folder into your ```/home/web``` directory.
 
 Demo: http://indexer.zvoid.net/
 

@@ -50,7 +50,7 @@ Request Example Format:
 
 ##### compressed
 ```
-.7z, .zip, .rar, .tar, .tar.gz, .tgz, .deb, .rpm, .iso, .bin, .cue
+.7z, .zip, .rar, .tar, .tar.gz, .tgz, .bz2, .deb, .rpm, .iso, .bin, .cue
 ```
 
 ##### data storage

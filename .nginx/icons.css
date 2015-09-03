@@ -84,6 +84,10 @@ a[href$=".zip"]:before {
 	background: url(icons/zip.png);
 }
 
+a[href$=".bz2"]:before {
+	background: url(icons/bz2.png);
+}
+
 
 /** Data Storage **/
 
